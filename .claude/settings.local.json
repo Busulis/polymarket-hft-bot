@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:rich.readthedocs.io)",
+      "WebFetch(domain:httpx.readthedocs.io)",
+      "WebFetch(domain:pynput.readthedocs.io)",
+      "WebFetch(domain:encode.io)",
+      "WebFetch(domain:websockets.readthedocs.io)",
+      "WebFetch(domain:eth-account.readthedocs.io)",
+      "WebFetch(domain:docs.polymarket.com)",
+      "Bash(pip install -r requirements.txt)",
+      "Bash(python -c \":*)"
+    ]
+  }
+}
